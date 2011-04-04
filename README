@@ -1,0 +1,2 @@
+Scilifelab
+Automatic pipeline for analysing RNASeq data. The pipeline uses FASTQC, Tophat, samtools, rpkmforgenes, htseqCount and the R package DESeq as well as custom scripts. 
